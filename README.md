@@ -1,6 +1,3 @@
-This Repository will hold all of the code and queries from portfolio projects I create.
-
-
 World Layoffs Analysis
 
 This project explores layoff trends globally using data from . The goal was to clean the data ready to be used for an analysis.
